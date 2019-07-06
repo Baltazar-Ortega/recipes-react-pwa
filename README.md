@@ -10,7 +10,7 @@ Features:
 * Add to Home Screen
 * Web Share API
 
-### Scrips
+### Scripts
 
 * `npm install` instalar dependencias
 * `npm run dev` para entorno de desarrollo
