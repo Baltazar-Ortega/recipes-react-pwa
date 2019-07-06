@@ -21,7 +21,7 @@ Features:
 ![recetas](https://user-images.githubusercontent.com/30305964/60759149-7160b080-9fe5-11e9-8880-120aff44f219.PNG)
 
 
-![recetasdetail](https://user-images.githubusercontent.com/30305964/60759148-67d74880-9fe5-11e9-901b-e281dbb7e28e.PNG)
+![recetasdetail](https://user-images.githubusercontent.com/30305964/60759175-1a0f1000-9fe6-11e9-9a02-e8a3ce00acee.PNG)
 
 ### Licencia 
 
